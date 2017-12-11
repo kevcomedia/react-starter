@@ -1,14 +1,14 @@
 {
-  "name": "react-webpack-config",
+  "name": "react-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Starter repo for React projects",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kev Comedia",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
